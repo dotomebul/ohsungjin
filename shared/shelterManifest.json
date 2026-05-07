@@ -1,0 +1,1068 @@
+{
+  "us": [
+    {
+      "state": "Alabama",
+      "state_code": "AL",
+      "ema_url": "https://ema.alabama.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Alaska",
+      "state_code": "AK",
+      "ema_url": "https://ready.alaska.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Arizona",
+      "state_code": "AZ",
+      "ema_url": "https://dema.az.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Arkansas",
+      "state_code": "AR",
+      "ema_url": "https://www.dps.arkansas.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "California",
+      "state_code": "CA",
+      "ema_url": "https://www.caloes.ca.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Colorado",
+      "state_code": "CO",
+      "ema_url": "https://cdphe.colorado.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Connecticut",
+      "state_code": "CT",
+      "ema_url": "https://portal.ct.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Delaware",
+      "state_code": "DE",
+      "ema_url": "https://dema.delaware.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "District of Columbia",
+      "state_code": "DC",
+      "ema_url": "https://hsema.dc.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Florida",
+      "state_code": "FL",
+      "ema_url": "https://www.floridadisaster.org",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Georgia",
+      "state_code": "GA",
+      "ema_url": "https://gema.georgia.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Hawaii",
+      "state_code": "HI",
+      "ema_url": "https://dod.hawaii.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Idaho",
+      "state_code": "ID",
+      "ema_url": "https://ioem.idaho.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Illinois",
+      "state_code": "IL",
+      "ema_url": "https://iemaohs.illinois.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Indiana",
+      "state_code": "IN",
+      "ema_url": "https://www.in.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Iowa",
+      "state_code": "IA",
+      "ema_url": "https://homelandsecurity.iowa.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Kansas",
+      "state_code": "KS",
+      "ema_url": "https://www.kansastag.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Kentucky",
+      "state_code": "KY",
+      "ema_url": "https://kyem.ky.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Louisiana",
+      "state_code": "LA",
+      "ema_url": "https://gohsep.la.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Maine",
+      "state_code": "ME",
+      "ema_url": "https://www.maine.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Maryland",
+      "state_code": "MD",
+      "ema_url": "https://mdem.maryland.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Massachusetts",
+      "state_code": "MA",
+      "ema_url": "https://www.mass.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Michigan",
+      "state_code": "MI",
+      "ema_url": "https://www.michigan.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Minnesota",
+      "state_code": "MN",
+      "ema_url": "https://www.dps.mn.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Mississippi",
+      "state_code": "MS",
+      "ema_url": "https://www.msema.org",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Missouri",
+      "state_code": "MO",
+      "ema_url": "https://sema.dps.mo.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Montana",
+      "state_code": "MT",
+      "ema_url": "https://des.mt.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Nebraska",
+      "state_code": "NE",
+      "ema_url": "https://nema.nebraska.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Nevada",
+      "state_code": "NV",
+      "ema_url": "https://dem.nv.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "New Hampshire",
+      "state_code": "NH",
+      "ema_url": "https://www.nh.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "New Jersey",
+      "state_code": "NJ",
+      "ema_url": "https://www.nj.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "New Mexico",
+      "state_code": "NM",
+      "ema_url": "https://www.dhsem.nm.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "New York",
+      "state_code": "NY",
+      "ema_url": "https://www.dhses.ny.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "North Carolina",
+      "state_code": "NC",
+      "ema_url": "https://www.ncdps.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "North Dakota",
+      "state_code": "ND",
+      "ema_url": "https://www.des.nd.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Ohio",
+      "state_code": "OH",
+      "ema_url": "https://ema.ohio.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Oklahoma",
+      "state_code": "OK",
+      "ema_url": "https://oklahoma.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Oregon",
+      "state_code": "OR",
+      "ema_url": "https://www.oregon.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Pennsylvania",
+      "state_code": "PA",
+      "ema_url": "https://www.pema.pa.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Rhode Island",
+      "state_code": "RI",
+      "ema_url": "https://riema.ri.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "South Carolina",
+      "state_code": "SC",
+      "ema_url": "https://www.scemd.org",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "South Dakota",
+      "state_code": "SD",
+      "ema_url": "https://dps.sd.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Tennessee",
+      "state_code": "TN",
+      "ema_url": "https://www.tn.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Texas",
+      "state_code": "TX",
+      "ema_url": "https://www.tdem.texas.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Utah",
+      "state_code": "UT",
+      "ema_url": "https://dem.utah.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Vermont",
+      "state_code": "VT",
+      "ema_url": "https://vem.vermont.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Virginia",
+      "state_code": "VA",
+      "ema_url": "https://www.vaemergency.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Washington",
+      "state_code": "WA",
+      "ema_url": "https://mil.wa.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "West Virginia",
+      "state_code": "WV",
+      "ema_url": "https://emd.wv.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Wisconsin",
+      "state_code": "WI",
+      "ema_url": "https://wem.wi.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    },
+    {
+      "state": "Wyoming",
+      "state_code": "WY",
+      "ema_url": "https://hls.wyo.gov",
+      "fema_app_url": "https://www.fema.gov/home",
+      "fema_sms": "43362",
+      "fema_sms_template": "SHELTER {ZIP}",
+      "red_cross_url": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
+      "lookup_methods": [
+        "state_page_first",
+        "fema_app",
+        "fema_sms",
+        "red_cross_shelter_map"
+      ]
+    }
+  ],
+  "eu": [
+    {
+      "country": "Austria",
+      "country_ko": "오스트리아",
+      "iso2": "AT",
+      "iso3": "AUT",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/austria_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Belgium",
+      "country_ko": "벨기에",
+      "iso2": "BE",
+      "iso3": "BEL",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/belgium_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Bulgaria",
+      "country_ko": "불가리아",
+      "iso2": "BG",
+      "iso3": "BGR",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/bulgaria_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Croatia",
+      "country_ko": "크로아티아",
+      "iso2": "HR",
+      "iso3": "HRV",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/croatia_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Cyprus",
+      "country_ko": "키프로스",
+      "iso2": "CY",
+      "iso3": "CYP",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/cyprus_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Czechia",
+      "country_ko": "체코",
+      "iso2": "CZ",
+      "iso3": "CZE",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/czechia_en",
+      "has_official_locator": "not_verified",
+      "locator_url": "",
+      "notes": "Fire Rescue Service of the Czech Republic has official mapping infrastructure, but a public national shelter-point locator was not verified in this pass."
+    },
+    {
+      "country": "Denmark",
+      "country_ko": "덴마크",
+      "iso2": "DK",
+      "iso3": "DNK",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/denmark_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Estonia",
+      "country_ko": "에스토니아",
+      "iso2": "EE",
+      "iso3": "EST",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/estonia_en",
+      "has_official_locator": "yes",
+      "locator_url": "https://www.rescue.ee/en/instruction/public-shelters",
+      "notes": "Estonia directs users to the Maa-amet / Maa- ja Ruumiamet geoportal for public shelters. National POI metadata confirms a downloadable WFS service that includes the varjumiskoht layer."
+    },
+    {
+      "country": "Finland",
+      "country_ko": "핀란드",
+      "iso2": "FI",
+      "iso3": "FIN",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/finland_en",
+      "has_official_locator": "yes",
+      "locator_url": "https://intermin.fi/en/rescue-services/preparedness/civil-defence-shelters",
+      "notes": "Finland has extensive shelter stock, but a public national point-download endpoint was not confirmed in this pass."
+    },
+    {
+      "country": "France",
+      "country_ko": "프랑스",
+      "iso2": "FR",
+      "iso3": "FRA",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/france_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Germany",
+      "country_ko": "독일",
+      "iso2": "DE",
+      "iso3": "DEU",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/germany_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Greece",
+      "country_ko": "그리스",
+      "iso2": "GR",
+      "iso3": "GRC",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/greece_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Hungary",
+      "country_ko": "헝가리",
+      "iso2": "HU",
+      "iso3": "HUN",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/hungary_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Ireland",
+      "country_ko": "아일랜드",
+      "iso2": "IE",
+      "iso3": "IRL",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/ireland_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Italy",
+      "country_ko": "이탈리아",
+      "iso2": "IT",
+      "iso3": "ITA",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/italy_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Latvia",
+      "country_ko": "라트비아",
+      "iso2": "LV",
+      "iso3": "LVA",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/latvia_en",
+      "has_official_locator": "yes",
+      "locator_url": "https://www.vugd.gov.lv/lv/patvertnes",
+      "notes": "Latvia has a national official shelter map via 112.lv / 112 Latvija, but a national bulk point export was not confirmed in this pass. Riga municipality does publish open shelter files including KML/SHP/GPKG."
+    },
+    {
+      "country": "Lithuania",
+      "country_ko": "리투아니아",
+      "iso2": "LT",
+      "iso3": "LTU",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/lithuania_en",
+      "has_official_locator": "yes",
+      "locator_url": "https://lt72.lt/kolektyvines-apsaugos-statiniai-priedangos-ir-rusiai/?lang=en",
+      "notes": "Lithuania publishes a national open-data package for PAGD collective protection structures, shelters, evacuation points, and sirens. Geoportal package is updated monthly."
+    },
+    {
+      "country": "Luxembourg",
+      "country_ko": "룩셈부르크",
+      "iso2": "LU",
+      "iso3": "LUX",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/luxembourg_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Malta",
+      "country_ko": "몰타",
+      "iso2": "MT",
+      "iso3": "MLT",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/malta_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Netherlands",
+      "country_ko": "네덜란드",
+      "iso2": "NL",
+      "iso3": "NLD",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/netherlands_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Poland",
+      "country_ko": "폴란드",
+      "iso2": "PL",
+      "iso3": "POL",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/poland_en",
+      "has_official_locator": "yes",
+      "locator_url": "https://gdziesieukryc.pl/",
+      "notes": "Official national shelter-point dataset exists in Poland. Use the official open-data resource or the PSP source XML for backend ingestion. Also reflected in Geoportal.gov.pl crisis-management layer."
+    },
+    {
+      "country": "Portugal",
+      "country_ko": "포르투갈",
+      "iso2": "PT",
+      "iso3": "PRT",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/portugal_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Romania",
+      "country_ko": "루마니아",
+      "iso2": "RO",
+      "iso3": "ROU",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/romania_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Slovakia",
+      "country_ko": "슬로바키아",
+      "iso2": "SK",
+      "iso3": "SVK",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/slovakia_en",
+      "has_official_locator": "not_verified",
+      "locator_url": "",
+      "notes": "EU civil protection system page indicates many key plans and capacities are maintained at local/municipal level; public national shelter-point locator not verified in this pass."
+    },
+    {
+      "country": "Slovenia",
+      "country_ko": "슬로베니아",
+      "iso2": "SI",
+      "iso3": "SVN",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/slovenia_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Spain",
+      "country_ko": "스페인",
+      "iso2": "ES",
+      "iso3": "ESP",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/spain_en",
+      "has_official_locator": "unknown_in_this_pass",
+      "locator_url": "",
+      "notes": "No official national shelter-point source was verified in this pass. Country needs manual follow-up through national civil protection / interior ministry / municipal portals."
+    },
+    {
+      "country": "Sweden",
+      "country_ko": "스웨덴",
+      "iso2": "SE",
+      "iso3": "SWE",
+      "emergency_number": "112",
+      "profile_url": "https://european-union.europa.eu/principles-countries-history/eu-countries/sweden_en",
+      "has_official_locator": "yes",
+      "locator_url": "https://www.msb.se/sv/amnesomraden/krisberedskap--civilt-forsvar/befolkningsskydd/skyddsrum/hitta-ditt-narmaste-skyddsrum/",
+      "notes": "Sweden exposes an official shelter map, an OGC API Features service, and a national shapefile download for shelters."
+    }
+  ]
+}
