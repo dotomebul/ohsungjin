@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Evacora</string>
+    <string name="title_activity_main">Evacora</string>
+    <string name="package_name">com.evacora.app</string>
+    <string name="custom_url_scheme">com.evacora.app</string>
+</resources>

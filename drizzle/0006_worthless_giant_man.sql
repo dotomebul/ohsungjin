@@ -1,0 +1,1 @@
+ALTER TABLE `shelters` MODIFY COLUMN `region` enum('us','eu','kr','jp') NOT NULL;
