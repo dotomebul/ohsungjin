@@ -1,0 +1,1 @@
+import{j as s}from"./vendor-ui-BmjpkrsE.js";function e(){return s.jsxs("section",{"data-loc":"client/src/pages/Settings.tsx:2",className:"card",children:[s.jsx("h2",{"data-loc":"client/src/pages/Settings.tsx:2",children:"설정"}),s.jsx("p",{"data-loc":"client/src/pages/Settings.tsx:2",children:"알림, 언어, 개인정보 정책을 관리합니다."})]})}export{e as S};

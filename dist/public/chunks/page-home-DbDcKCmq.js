@@ -1,0 +1,1 @@
+import{j as s}from"./vendor-ui-BmjpkrsE.js";function c(){return s.jsxs("section",{"data-loc":"client/src/pages/Home.tsx:2",className:"card",children:[s.jsx("h2",{"data-loc":"client/src/pages/Home.tsx:2",children:"실시간 위기 대응 홈"}),s.jsx("p",{"data-loc":"client/src/pages/Home.tsx:2",children:"재난 알림, 체크인, 가까운 대피소로 이동할 수 있습니다."})]})}export{c as H};
