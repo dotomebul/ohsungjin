@@ -2487,8 +2487,9 @@ ${input.message}
 
 // server/routers/news.ts
 import { z as z5 } from "zod";
-var NEWSAPI_KEY = process.env.NEWSAPI_KEY || "demo";
+var NEWSAPI_KEY = process.env.VITE_NEWS_API_KEY || process.env.NEWSAPI_KEY || "demo";
 var NEWSAPI_URL = "https://newsapi.org/v2";
+console.log("[NewsAPI] Using API key:", NEWSAPI_KEY === "demo" ? "DEMO (Mock data)" : "PRODUCTION (Real API)");
 var MOCK_ARTICLES = [
   {
     id: "demo-1",

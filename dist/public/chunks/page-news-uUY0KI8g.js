@@ -1,0 +1,1 @@
+import{j as s}from"./vendor-ui-BmjpkrsE.js";function a(){return s.jsxs("section",{"data-loc":"client/src/pages/NewsPage.tsx:2",className:"card",children:[s.jsx("h2",{"data-loc":"client/src/pages/NewsPage.tsx:2",children:"재난 뉴스"}),s.jsx("p",{"data-loc":"client/src/pages/NewsPage.tsx:2",children:"최신 재난 이벤트를 표시할 영역입니다."})]})}export{a as N};
